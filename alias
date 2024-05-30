@@ -1,0 +1,2 @@
+alias dirfuzz="bash ~/dir.sh"
+alias subfind="bash ~/subfind.sh"
